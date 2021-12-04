@@ -1,0 +1,40 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: rgb(101, 47, 144);
+}
+
+.div_name
+{
+    float: left;
+}
+
+.div_name_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#name
+{
+    font-size: 23;
+    margin: 15px;
+}
+.div_volume
+{
+    float: center;
+}
+
+.body
+{
+    size: fill;
+
+}
+
